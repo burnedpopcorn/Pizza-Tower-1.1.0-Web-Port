@@ -12,7 +12,7 @@ Unfornately there are many bugs that impact the game such as
 
 Also fixes are not going to happen by me if at all
   
-  Why? Because I bad at coding (I'm basically just a script kiddie), and I'm not sure if this will get any attention
+  Why? Because I bad at coding, and I'm not sure if this will get any attention
 
 No files will be listed here, instead being downloadable by a Google Drive Link
 - Which will include a decompiled Pizza Tower for anyone that wants to improve this shit
