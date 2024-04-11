@@ -20,7 +20,9 @@ No files will be listed here, instead being downloadable by a Google Drive Link
 - In which you will find a folder called PizzaTower_GMS_(some numbers)_VM after you compiled the project
 
 The said files will NOT run locally as file:// will just result in CORS errors and will not allow runner.html (the main file that runs Pizza Tower) to read the game files
+
 The only way for them to work is if you have a web server running this (not tested), or a local server using something like python (which has successfully been tested)
+
 I won't be hosting these files as I don't have access to a server nor will I use my own computers as a server
 
 Thanks to
