@@ -1,10 +1,8 @@
 # Pizza Tower 1.1.0 Web Port
 
-Pizza Tower 1.1.0 Web Port
+A Port of Pizza Tower 1.1.0 (The Noise Update) to the Web Browser
 
 https://drive.google.com/file/d/1DkkFvisrEHQsYiShZA9Ha-px2kaZfett/view?usp=drive_link
-
-A port of Pizza Tower (The Noise Update) to the Web Browser
 
 Unfornately there are many bugs that impact the game such as
 - No sound
