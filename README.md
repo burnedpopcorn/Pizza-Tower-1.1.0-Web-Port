@@ -12,13 +12,13 @@ Unfornately there are many bugs that impact the game such as
 - Crash as Knight Peppino when slamming into a wall
 - And many more I did not encounter during my short time play testing which only went up to PizzaScape
 
-- Although saves work correctly
+Although saves work correctly
 
-Also fixes are not going to happen by me if at all
+### Also fixes are not going to happen by me if at all
   
   Why? Because I bad at coding, and I'm not sure if this will get any attention
 
-No files will be listed here, instead being downloadable by a Google Drive Link
+### No files will be listed here, instead being downloadable by a Google Drive Link
 - Which will include a decompiled Pizza Tower for anyone that wants to improve this shit
 - Note that I used GX.GAMES and VM to compile it, and to obtain the compiled files from GameMaker Studio for free, just go to C:/Users/(your username)/AppData/Local/GameMakerStudio2-LTS/GMS2TEMP
 - In which you will find a folder called PizzaTower_GMS_(some numbers)_VM after you compiled the project
