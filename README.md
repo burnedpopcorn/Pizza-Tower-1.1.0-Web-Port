@@ -25,7 +25,7 @@ The only way for them to work is if you have a web server running this (not test
 
 I won't be hosting these files as I don't have access to a server nor will I use my own computers as a server
 
-And the files are too big for github pages or any other service I can think of
+And the files are too big for github pages or any other service I can think of to host for free
 
 Thanks to
 - loypoll for the full decompilation of the recent Pizza Tower Update
