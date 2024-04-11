@@ -14,11 +14,11 @@ Unfornately there are many bugs that impact the game such as
 
 Although saves work correctly
 
-### Also fixes are not going to happen by me if at all
+## Also fixes are not going to happen by me if at all
   
   Why? Because I bad at coding, and I'm not sure if this will get any attention
 
-### No files will be listed here, instead being downloadable by a Google Drive Link
+## No files will be listed here, instead being downloadable by a Google Drive Link
 - Which will include a decompiled Pizza Tower for anyone that wants to improve this shit
 - Note that I used GX.GAMES and VM to compile it, and to obtain the compiled files from GameMaker Studio for free, just go to C:/Users/(your username)/AppData/Local/GameMakerStudio2-LTS/GMS2TEMP
 - In which you will find a folder called PizzaTower_GMS_(some numbers)_VM after you compiled the project
@@ -31,7 +31,7 @@ I won't be hosting these files as I don't have access to a server nor will I use
 
 And the files are too big for github pages or any other service I can think of to host for free (~680 MB just for the Web Port)
 
-Thanks to
+## Thanks to
 - loypoll for the full decompilation of the recent Pizza Tower Update
 - krzys_ and UnderminersTeam for the UnderTaleMod and the ability to decompile GameMakerStudio2 games like Undertale and Pizza Tower
 - And of course Tour de Pizza for the base game
