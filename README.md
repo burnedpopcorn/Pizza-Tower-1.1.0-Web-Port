@@ -27,7 +27,7 @@ The only way for them to work is if you have a web server running this, or a loc
 
 ~~I won't be hosting these files as I don't have access to a server nor will I use my own computers as a server~~
 
-(Update: I managed to host it for free using x10hosting's free plan using a minimalized version of the compiled files which is about 280MB form the normal version which is about 680MB)
+(Update: I managed to host it for free using x10hosting's free plan using a minimalized version of the compiled files which is about 280MB from the normal version which is about 680MB)
 
 ## Thanks to
 - loypoll for the full decompilation of the recent Pizza Tower Update
