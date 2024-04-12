@@ -17,7 +17,7 @@ Although saves work correctly
   Why? Because I'm bad at coding, and I'm not sure if this will get any attention
 
 ## No files will be listed here, instead being downloadable by a Google Drive Link
-### https://drive.google.com/drive/folders/1PLXdbKu9ZsA5QkoD-_a2xtxrH-1-rZgZ?usp=sharing
+### https://drive.google.com/file/d/1Fwb4DBS9ZqnVfmSa4cKKoqZM3Cymn_gX/view?usp=sharing
 
 - Which will include a decompiled Pizza Tower for anyone that wants to improve this shit
 - Note that I used GX.GAMES and VM to compile it, and to obtain the compiled files from GameMaker Studio for free, just go to C:/Users/(your username)/AppData/Local/GameMakerStudio2-LTS/GMS2TEMP
