@@ -37,3 +37,7 @@ The only way for them to work is if you have a web server running this, or a loc
 - loypoll for the full decompilation of the recent Pizza Tower Update
 - krzys_ and UnderminersTeam for the UnderTaleMod and the ability to decompile GameMakerStudio2 games like Undertale and Pizza Tower
 - And of course Tour de Pizza for the base game
+
+## To certain users
+This project was primarily made to play Pizza Tower on locked-down school chromebooks for lazy ass students. Please do not use this project to avoid paying for the PC version of the game. By doing this you not only harming the creator of Pizza Tower, but also harming you experience with this 
+amazing game with a version filled with bugs, crashes, and lost functionality
