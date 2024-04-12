@@ -4,13 +4,13 @@ A Port of Pizza Tower 1.1.0 (The Noise Update) to the Web Browser
 
 http://pt-emscriptenport.x10.mx/runner.html
 
-Unfornately there are many bugs that impact the game such as
+Unfornately there are many bugs that can severely impact the game such as
 - No sound
-- Game Frame being misplaced (Manually Fixable through ingame settings)
+- Game Frame being heavily misplaced (Somewhat Fixable through ingame settings)
 - Crash as Knight Peppino when slamming into a wall
 - And many more I did not encounter during my short time play testing (which only went up to PizzaScape)
 
-Although saves work correctly
+Although saves do work correctly
 
 ## Also fixes are not going to happen by me if at all
   
