@@ -26,6 +26,8 @@ Although saves work correctly
 The said files will NOT run locally as file:// will just result in CORS errors and will not allow runner.html (the main file that runs Pizza Tower) to read the game files
 
 The only way for them to work is if you have a web server running this, or a local server using something like python
+- Which you can do by entering the directory containing runner.html and other files and typing the command python3 -m http.server in the terminal for linux and py -m http.server for windows powershell given you installed python
+- At which point you can enter http://localhost:8000/runner.html to play the game locally
 
 ~~I won't be hosting these files as I don't have access to a server nor will I use my own computers as a server~~
 
