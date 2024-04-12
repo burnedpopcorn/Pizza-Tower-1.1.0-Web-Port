@@ -8,7 +8,7 @@ Unfornately there are many bugs that impact the game such as
 - No sound
 - Game Frame being misplaced (Manually Fixable through ingame settings)
 - Crash as Knight Peppino when slamming into a wall
-- And many more I did not encounter during my short time play testing which only went up to PizzaScape
+- And many more I did not encounter during my short time play testing (which only went up to PizzaScape)
 
 Although saves work correctly
 
