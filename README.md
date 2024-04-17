@@ -8,9 +8,11 @@ Unfornately there are many bugs that can severely impact the game such as
 - No sound
 - Game Frame being heavily misplaced (Somewhat Fixable through ingame settings)
 - Crash as Knight Peppino when slamming into a wall
-- And many more I did not encounter during my short time play testing (which only went up to PizzaScape)
+- And many more I did not encounter during my time play testing (which only went up to Level 3)
 
 Although saves do work correctly
+- Note that you should immediately toggle Fullscreen while in-game, as it resolves the Game Frame issue, and it improves performace on extremely low-powered hardware
+such as school chromebooks (for some reason)
 
 ## Also fixes are not going to happen by me if at all
   
