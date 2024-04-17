@@ -23,7 +23,7 @@ such as school chromebooks (for some reason)
 ### https://drive.google.com/file/d/1Fwb4DBS9ZqnVfmSa4cKKoqZM3Cymn_gX/view?usp=sharing
 
 - Which will include a decompiled Pizza Tower for anyone that wants to improve this shit
-- Note that I used GX.GAMES and VM to compile it, and to obtain the compiled files from GameMaker Studio for free, just go to C:/Users/(your username)/AppData/Local/GameMakerStudio2-LTS/GMS2TEMP
+- Note that I used GX.GAMES and VM options to compile it, and to obtain the compiled files from GameMaker Studio for free, just go to C:/Users/(your username)/AppData/Local/GameMakerStudio2-LTS/GMS2TEMP while locally running the game
 - In which you will find a folder called PizzaTower_GMS_(some numbers)_VM after you compiled the project
 
 The said files will NOT run locally as file:// will just result in CORS errors and will not allow runner.html (the main file that runs Pizza Tower) to read the game files
