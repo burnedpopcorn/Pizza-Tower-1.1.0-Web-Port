@@ -13,6 +13,7 @@ Unfornately there are many bugs that can severely impact the game such as
 Although saves do work correctly
 - Note that you should immediately toggle Fullscreen while in-game, as it resolves the Game Frame issue, and it improves performace on extremely low-powered hardware
 such as school chromebooks (for some reason)
+- Also, the game lags alot when spawning particle effects and/or when blocks change (Walkable Cheese blocks) / are destroyed on low-end hardware
 
 ## Also fixes are not going to happen by me if at all
   
