@@ -31,7 +31,7 @@ This Link contains The Decompiled Files (data.win files are already extracted fo
 This Link contains only the Revised Minimalized Build, as I only modified runner.html, and added primoburg'.gif for the f u n n y (and because I couldn't think of any other use for the third button)
 ### https://drive.google.com/file/d/1kA2Brz4mh_3VjLj_kM1eXYPTFwLqUCGo/view?usp=sharing
 
-## To Compile it for Yourself
+## To Compile and Run it for Yourself
 
 - Use GX.GAMES and VM options to compile it, and to obtain the compiled files from GameMaker Studio for free, just go to C:/Users/(your username)/AppData/Local/GameMakerStudio2-LTS/GMS2TEMP while locally running the game
 - In which you will find a folder called PizzaTower_GMS_(some numbers)_VM after you compiled the project
