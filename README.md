@@ -4,6 +4,8 @@ A Port of Pizza Tower 1.1.0 (The Noise Update) to the Web Browser
 
 http://pt-emscriptenport.x10.mx/runner.html
 
+### (Update: No, not to the game. This is a Revision of runner.html that repurposed unused buttons and made them accessible while in-game)
+
 Unfornately there are many bugs that can severely impact the game such as
 - No sound
 - Game Frame being heavily misplaced (Somewhat Fixable through ingame settings)
@@ -21,6 +23,8 @@ such as school chromebooks (for some reason)
 
 ## No files will be listed here, instead being downloadable by a Google Drive Link
 ### https://drive.google.com/file/d/1Fwb4DBS9ZqnVfmSa4cKKoqZM3Cymn_gX/view?usp=sharing
+### The Revision Files are here:
+### https://drive.google.com/file/d/1kA2Brz4mh_3VjLj_kM1eXYPTFwLqUCGo/view?usp=sharing
 
 - Which will include a decompiled Pizza Tower for anyone that wants to improve this shit
 - Note that I used GX.GAMES and VM options to compile it, and to obtain the compiled files from GameMaker Studio for free, just go to C:/Users/(your username)/AppData/Local/GameMakerStudio2-LTS/GMS2TEMP while locally running the game
