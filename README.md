@@ -4,7 +4,7 @@ A Port of Pizza Tower 1.1.0 (The Noise Update) to the Web Browser
 
 http://pt-emscriptenport.x10.mx/runner.html
 
-### (Update: No, not to the game. This is a Revision of runner.html that repurposed unused buttons and made them accessible while in-game, and this revision has been applied on the website)
+(Update: No, not to the game. This is a Revision of runner.html that repurposed unused buttons and made them accessible while in-game, and this revision has been applied on the website)
 
 Unfornately there are many bugs that can severely impact the game such as
 - No sound
