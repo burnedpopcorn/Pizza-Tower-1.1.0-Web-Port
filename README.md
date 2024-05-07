@@ -4,7 +4,7 @@ A Port of Pizza Tower 1.1.0 (The Noise Update) to the Web Browser
 
 http://pt-emscriptenport.x10.mx/runner.html
 
-### (Update: No, not to the game. This is a Revision of runner.html that repurposed unused buttons and made them accessible while in-game)
+### (Update: No, not to the game. This is a Revision of runner.html that repurposed unused buttons and made them accessible while in-game, and this revision has been applied on the website)
 
 Unfornately there are many bugs that can severely impact the game such as
 - No sound
@@ -16,6 +16,7 @@ Although saves do work correctly
 - Note that you should immediately toggle Fullscreen while in-game, as it resolves the Game Frame issue, and it improves performace on extremely low-powered hardware
 such as school chromebooks (for some reason)
 - Also, the game lags alot when spawning particle effects and/or when blocks change (Walkable Cheese blocks) / are destroyed on low-end hardware
+- And the Debug Console is toggleable using F5, but ChromeBooks can't access it. But either way it has no purpose, as commands aren't functional (See Closed Issue #2)
 
 ## Also fixes are not going to happen by me if at all
   
