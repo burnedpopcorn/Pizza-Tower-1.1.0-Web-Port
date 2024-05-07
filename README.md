@@ -23,8 +23,12 @@ such as school chromebooks (for some reason)
   Why? Because I'm bad at coding, and I'm not sure if this will get any attention
 
 ## No files will be listed here, instead being downloadable by a Google Drive Link
+
+This Link contains The Decompiled Files (data.win files are already extracted for you), the Full Compiled PT Web Build, and the Minimalized Build that cuts out files that aren't used, so you can host Pizza Tower on your own website
 ### https://drive.google.com/file/d/1Fwb4DBS9ZqnVfmSa4cKKoqZM3Cymn_gX/view?usp=sharing
 ### The Revision Files are here:
+
+This Link contains only the Revised Minimalized Build, as I only modified runner.html, and added primoburg'.gif for the funnies (and because I couldn't think of any other use for the third button)
 ### https://drive.google.com/file/d/1kA2Brz4mh_3VjLj_kM1eXYPTFwLqUCGo/view?usp=sharing
 
 - Which will include a decompiled Pizza Tower for anyone that wants to improve this shit
