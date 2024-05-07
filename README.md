@@ -28,7 +28,7 @@ This Link contains The Decompiled Files (data.win files are already extracted fo
 ### https://drive.google.com/file/d/1Fwb4DBS9ZqnVfmSa4cKKoqZM3Cymn_gX/view?usp=sharing
 ### The Revision Files are here:
 
-This Link contains only the Revised Minimalized Build, as I only modified runner.html, and added primoburg'.gif for the funnies (and because I couldn't think of any other use for the third button)
+This Link contains only the Revised Minimalized Build, as I only modified runner.html, and added primoburg'.gif for the f u n n y (and because I couldn't think of any other use for the third button)
 ### https://drive.google.com/file/d/1kA2Brz4mh_3VjLj_kM1eXYPTFwLqUCGo/view?usp=sharing
 
 - Which will include a decompiled Pizza Tower for anyone that wants to improve this shit
