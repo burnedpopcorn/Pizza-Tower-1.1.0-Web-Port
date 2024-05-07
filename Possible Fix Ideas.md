@@ -26,6 +26,6 @@ Commands don't work probably because the text is Capitialized for some reason, a
 possible fixes.
 
 Chromebooks are unable to access the console completely, because of a lack of an F5 key. I have managed to modify the decompiled code to allow F5 OR the Tab key to open the console (See Closed Issue #2), but I have not applied this "fix" onto the
-demo site, or even into the recent Revision 1 Files that I have uploaded, because its kind of useless without functioning commands (also because I also modified other scripts without reverting those changes, so it is untrustworthy at the moment).
+demo site, or even into the recent Revision 1 Files that I have uploaded, because its kind of useless without functioning commands (also because I modified other scripts without reverting those changes, so it is untrustworthy at the moment).
 
 Also I have no idea why Peppino's Clothes are Yellow
