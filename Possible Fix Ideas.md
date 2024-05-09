@@ -4,6 +4,7 @@ This page is to document what I think are causing issues, which should (barely) 
 ## Game Frame Misplacement
 The current Game Frame is heavily misplaced on most monitors. The best solution to this issue is probably to force fullscreen immediately after the game runs. The best way to force fullscreen is probably making changes in the decompiled game code
 (using GameMaker Studio 2, obviously), but it also might be possible to modify runner.html to force fullscreen as well (but the former is probably better).
+- It also could be because on start-up, it disables extensions by default (the console output proves this: ctx.enableExtensionsByDefault = 0 )
 
 ## No Sound (FMOD)
 The game also has no sound, either because FMOD is not initializing during startup, or it cannot locate the .bank files (but it could be both idk). The directory where FMOD expects the .bank files to be should either be 
@@ -11,6 +12,7 @@ The game also has no sound, either because FMOD is not initializing during start
 - Or /assets/sound/desktop/[4 different bank files].bank
 - But the game can't locate them in either one.
 This is probably due to the fact FMOD isn't officially supported on GX.GAMES (VM), and I have no idea how to fix this or even where to start, so I doubt seeing sound working anytime in the foreseeable future.
+- It also could be because it disables extensions by default, like previously stated in Game Frame Misplacement, and/or it fails to start FMOD ( Initializing FMOD: 0 ), but I'm not sure if that means that it fails to Initialize, as it still calls for the .bank files
 
 ## Knight Peppino Crash
 This crash occurs when hitting a wall as Knight Peppino when sliding. Also don't really know why it isn't working, but it does seem to be a problem with spr_knightpep_bump and its associated scripts, as the sprite never renders. Hopefully this
