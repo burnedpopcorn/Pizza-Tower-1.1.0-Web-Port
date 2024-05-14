@@ -16,7 +16,7 @@ This is probably due to the fact FMOD isn't officially supported on GX.GAMES (VM
 
 ## Knight Peppino Crash
 This crash occurs when hitting a wall as Knight Peppino when sliding. Also don't really know why it isn't working, but it does seem to be a problem with spr_knightpep_bump and its associated scripts, as the sprite never renders. Hopefully this
-can be fixed quickly, and this is an issue I will continue to attempt to fix, as I want the full game to be at least fully playable (but remember, no promises).
+can be fixed quickly, and this is an issue I will continue to attempt to fix, as I want the full game to be at least fully playable (but remember, no promises). My next move to fix this is probably to compare Knight Peppino and Knight Noise and how they differ in the code, as Noise doesn't have this issue, so I could attempt to implement some of his code to Peppino, but this is just me throwing things at the wall without any knowledge of how things work, so who knows if this could work.
 
 ## Debug Console and Commands
 This doesn't affect most players that much, but the Debug Console would be a nice addition, especally for players on school chromebooks, as their saves
