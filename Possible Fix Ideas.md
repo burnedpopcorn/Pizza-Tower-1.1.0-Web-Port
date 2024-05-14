@@ -19,7 +19,7 @@ This crash occurs when hitting a wall as Knight Peppino when sliding. Also don't
 can be fixed quickly, and this is an issue I will continue to attempt to fix, as I want the full game to be at least fully playable (but remember, no promises).
 
 ## Debug Console and Commands
-This doesn't affect most players that much, but the Debug Console would be a nice addition, especally because unlocking the Noise takes way too long, and would be realistically impossible for players on school chromebooks, as their saves
+This doesn't affect most players that much, but the Debug Console would be a nice addition, especally for players on school chromebooks, as their saves
 don't persist after logging off their account. The Debug Console isn't unaccessable, as it enabled by default (for some reason, but I'm not complaining about that), but:
 - Commands don't work and
 - Chromebooks cannot access it because the lack the F5 key
