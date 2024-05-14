@@ -48,7 +48,7 @@ The only way for them to work is if you have a web server running this, or a loc
 
 ## Thanks to
 - loypoll for the full decompilation of the recent Pizza Tower Update
-- krzys_ and UnderminersTeam for the UnderTaleMod and the ability to decompile GameMakerStudio2 games like Undertale and Pizza Tower
+- krzys_h and UnderminersTeam for the UnderTaleMod and the ability to decompile GameMakerStudio2 games like Undertale and Pizza Tower
 - And of course Tour de Pizza for the base game
 
 ## To certain users
