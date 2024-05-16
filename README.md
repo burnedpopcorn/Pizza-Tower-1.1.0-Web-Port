@@ -26,6 +26,9 @@ such as school chromebooks (for some reason)
 
 This Link contains The Decompiled Files (data.win files are already extracted for you), the Full Compiled PT Web Build, and the Minimalized Build that cuts out files that aren't used, so you can host Pizza Tower on your own website
 ### https://drive.google.com/file/d/1Fwb4DBS9ZqnVfmSa4cKKoqZM3Cymn_gX/view?usp=sharing
+
+> [!NOTE]
+> PT_WebBuild_Minimal is the same as PT_WebBuild, but only includes the files from the runner folder, as that contains the only necessary files to run Pizza Tower
 ### The Revision Files are here:
 
 This Link contains only the Revised Minimalized Build, as I only modified runner.html, and added primoburg'.gif for the f u n n y (and because I couldn't think of any other use for the third button)
