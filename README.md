@@ -6,6 +6,9 @@ http://pt-emscriptenport.x10.mx/runner.html
 
 (Update: No, not to the game. This is a Revision of runner.html that repurposed unused buttons and made them accessible while in-game, and this revision has been applied on the website)
 
+## Please read the Entire README
+### Although it is very long, there are lots of important information to developers and normal users alike, so please read it. It is worth your time if you are going to contribute or at least try the demo website above
+
 Unfornately there are many bugs that can severely impact the game such as
 - No sound
 - Game Frame being heavily misplaced (Somewhat Fixable through ingame settings)
