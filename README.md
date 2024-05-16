@@ -22,7 +22,7 @@ such as school chromebooks (for some reason)
 
 ## Also fixes are probably not going to happen by me if at all
   
-  Why? Because I'm bad at coding, and I'm not sure if this will get any attention
+  Why? Because I'm bad at coding, and I'm not sure if this will get any attention by any developers who are willing to waste time to contribute, although I would definitely appreciate it if a dev does contribute :)
 
 ## No files will be listed here, instead being downloadable by a Google Drive Link
 
