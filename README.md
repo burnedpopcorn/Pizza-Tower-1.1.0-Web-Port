@@ -10,7 +10,7 @@ Unfornately there are many bugs that can severely impact the game such as
 - No sound
 - Game Frame being heavily misplaced (Somewhat Fixable through ingame settings)
 - Crash as Knight Peppino when slamming into a wall
-- Knight Noise lagging the game on low end hardware when single jumping, falling, or ground pounding
+- Knight Noise lagging the game on low end hardware when single jumping, falling, or ground pounding without high speed
 - And many more I did not encounter during my time play testing (which only went up to Level 3)
 
 Although saves do work correctly
