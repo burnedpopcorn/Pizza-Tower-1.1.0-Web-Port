@@ -28,7 +28,7 @@ This Link contains The Decompiled Files (data.win files are already extracted fo
 ### https://drive.google.com/file/d/1Fwb4DBS9ZqnVfmSa4cKKoqZM3Cymn_gX/view?usp=sharing
 
 > [!NOTE]
-> PT_WebBuild_Minimal is the same as PT_WebBuild, but only includes the files from the runner folder, as that contains the only necessary files to run Pizza Tower
+> PT_WebBuild_Minimal is the same as PT_WebBuild, but only includes the files from the runner folder, as that contains the only necessary files to run Pizza Tower, and you should definitely use the Minimal build, as the extra files in the extracted web build are completely useless and just waste space on your server
 ### The Revision Files are here:
 
 This Link contains only the Revised Minimalized Build, as I only modified runner.html, and added primoburg'.gif for the f u n n y (and because I couldn't think of any other use for the third button)
