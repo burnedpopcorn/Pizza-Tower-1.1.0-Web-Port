@@ -9,7 +9,7 @@ http://pt-emscriptenport.x10.mx/runner.html
 Unfornately there are many bugs that can severely impact the game such as
 - No sound
 - Game Frame being heavily misplaced (Somewhat Fixable through ingame settings)
-- Crash as Knight Peppino when slamming into a wall
+- Crash as Knight Peppino when slamming into a wall at high speed
 - Knight Noise lagging the game on low end hardware when single jumping, falling, or ground pounding without high speed
 - And many more I did not encounter during my time play testing (which only went up to Level 3)
 
