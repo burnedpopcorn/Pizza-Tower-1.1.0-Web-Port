@@ -20,7 +20,7 @@ such as school chromebooks (for some reason)
 - Also, the game lags alot when spawning particle effects and/or when blocks change (Walkable Cheese blocks) / are destroyed on low-end hardware
 - And the Debug Console is toggleable using F5, but ChromeBooks can't access it. But either way it has no purpose, as commands aren't functional (See Closed Issue #2)
 
-## Also fixes are not going to happen by me if at all
+## Also fixes are probably not going to happen by me if at all
   
   Why? Because I'm bad at coding, and I'm not sure if this will get any attention
 
