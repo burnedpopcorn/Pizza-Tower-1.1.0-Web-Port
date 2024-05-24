@@ -41,6 +41,9 @@ This Link contains only the Revision 1 Minimalized Build, as I only modified run
 
 ## To Compile and Run it for Yourself
 
+> [!WARNING]
+> Use the 2022 LTS Gamemaker runtime (Runtime 2022.0.1.30), as anything older or anything newer will eventually cause problems while compiling
+
 - Use GX.GAMES and VM options to compile it, and to obtain the compiled files from GameMaker Studio for free, just go to C:/Users/(your username)/AppData/Local/GameMakerStudio2-LTS/GMS2TEMP while locally running the game
 - In which you will find a folder called PizzaTower_GMS_(some numbers)_VM after you compiled the project
 
