@@ -49,6 +49,9 @@ This Link contains only the Revision 1 Minimalized Build, as I only modified run
 
 The said files will NOT run locally as file:// will just result in CORS errors and will not allow runner.html (the main file that runs Pizza Tower) to read the game files
 
+> [!NOTE]
+> The YYC Compile Option does work, but you need Emscripten installed, and nothing is lost nor gained, so I recommend VM, as you don't need to waste time installing Emscripten and there are no upsides anyways
+
 The only way for them to work is if you have a web server running this, or a local server using something like python
 - Which you can do by entering the directory containing runner.html and other files and typing the command python3 -m http.server in the linux terminal or py -m http.server for windows powershell given you installed python
 - At which point you can enter http://localhost:8000/runner.html to play the game locally
