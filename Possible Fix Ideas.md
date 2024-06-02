@@ -1,6 +1,8 @@
 # Possible Fix Ideas
 This page is to document what I think are causing issues, which should (barely) help developers improve this project
 
+(Update: See Open Issue #14, I had a thought and I ain't placing it here because this place is already too unreadable)
+
 ## Game Frame Misplacement
 The current Game Frame is heavily misplaced on most monitors. The best solution (as in a duct-tape fix) to this issue is probably to force fullscreen immediately after the game runs. The best way to force fullscreen is probably making changes in the decompiled game code
 (using GameMaker Studio 2, obviously), but it also might be possible to modify runner.html to force fullscreen as well (but the former is probably better).
