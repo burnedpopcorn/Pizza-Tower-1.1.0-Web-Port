@@ -18,9 +18,38 @@ This is probably due to the fact FMOD isn't officially supported on GX.GAMES (VM
 
 One idea I have is to extract all the sound files from the .bank files and place them into a sound folder, which then we would manually remove and replace all FMOD sound functions with functions that would call the appropriate sound file when needed. This would most likely work, as I'm pretty sure the April 2021 build did that and it's sound actually worked, but this would take an immense amount of time, and I honestly see no reason to do this, as most people playing this game are on chromebooks playing in class, and would disable audio anyways as to not get caught by their teachers
 
-## Knight Peppino Crash
-This crash occurs when hitting a wall as Knight Peppino when sliding. Also don't really know why it isn't working, but it does seem to be a problem with spr_knightpep_bump and its associated scripts, as the sprite never renders. Hopefully this
-can be fixed quickly, and this is an issue I will continue to attempt to fix, as I want the full game to be at least fully playable (but remember, no promises). My next move to fix this is probably to compare Knight Peppino and Knight Noise and how they differ in the code, as Noise doesn't have this issue, so I could attempt to implement some of his code to Peppino, but this is just me throwing things at the wall without any knowledge of how things work, so who knows if this could work.
+## ~~Knight Peppino Crash~~
+(Update 6/6/24) THIS CRASH HAS BEEN PATCHED
+
+This was caused by missing parenthesis in scr_player_knightpepslopes. I realized this when looking at an Eggplant Decomp by loypoll (same guy that made the noise update decomp used in this project), and saw the missing parenthesis. This was probably caused by an oversight within the noise update decomp itself, so I would probably be notifying loypoll about this issue so he can fix it in his decomp.
+> The problematic code line is Line 77 (image_index = [ ] )
+
+Example of UNpatched code
+```
+		if ispeppino
+		{
+			instance_create(x + (xscale * 40), y, obj_bumpeffect);
+			movespeed = 0;
+			vsp = -6;
+			sprite_index = spr_knightpepbump;
+			image_index = floorimage_number - 1;
+			state = states.knightpepbump;
+			fmod_event_one_shot_3d("event:/sfx/pep/groundpound", x, y);
+		}
+```
+Example of PATCHED code
+```
+		if ispeppino
+		{
+			instance_create(x + (xscale * 40), y, obj_bumpeffect);
+			movespeed = 0;
+			vsp = -6;
+			sprite_index = spr_knightpepbump;
+			image_index = floor((image_number - 1));
+			state = states.knightpepbump;
+			fmod_event_one_shot_3d("event:/sfx/pep/groundpound", x, y);
+		}
+```
 
 ## Debug Console and Commands
 This doesn't affect most players that much, but the Debug Console would be a nice addition, especally for players on school chromebooks, as their saves
