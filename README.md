@@ -46,10 +46,6 @@ The only way for them to work is if you have a web server running this, or a loc
 - Which you can do by entering the directory containing runner.html and other files and typing the command python3 -m http.server in the linux terminal or py -m http.server for windows powershell given you installed python
 - At which point you can enter http://localhost:8000/runner.html to play the game locally
 
-~~I won't be hosting these files as I don't have access to a server nor will I use my own computers as a server~~
-
-(Update: I managed to host it for free using x10hosting's free plan using a minimalized version of the compiled files which is about 280MB from the normal version which is about 680MB)
-
 ## Thanks to
 - loypoll for the full decompilation of the recent Pizza Tower Update
 - krzys_h and UnderminersTeam for the UnderTaleMod and the ability to decompile GameMakerStudio2 games like Undertale and Pizza Tower
