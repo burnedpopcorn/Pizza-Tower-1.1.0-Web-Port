@@ -22,17 +22,12 @@ such as school chromebooks (for some reason)
 - Also, the game lags alot when spawning particle effects and/or when blocks change (Walkable Cheese blocks) / are destroyed on low-end hardware
 - And the Debug Console is toggleable using F5, but ChromeBooks can't access it. But either way it has no purpose, as commands aren't functional (See Closed Issue #2)
 
-## No files will be listed here, instead being downloadable by a Google Drive Link
+## Downloads
 
-This Link contains The Decompiled Files (data.win files are already extracted for you), the Full Compiled PT Web Build, and the Minimalized Build that cuts out files that aren't used, so you can host Pizza Tower on your own website
-### https://drive.google.com/file/d/1Fwb4DBS9ZqnVfmSa4cKKoqZM3Cymn_gX/view?usp=sharing
+Download the Revision 2 files in the Releases Tab
 
-> [!NOTE]
-> PT_WebBuild_Minimal is the same as PT_WebBuild, but only includes the files from the runner folder, as that contains the only necessary files to run Pizza Tower, and you should definitely use the Minimal build, as the extra files in the extracted web build are completely useless and just waste space on your server
-### The Revision Files are here:
-
-This Link contains only the Revision 1 Minimalized Build, as I only modified runner.html, and added primoburg'.gif for the f u n n y (and because I couldn't think of any other use for the third button)
-### https://drive.google.com/file/d/1kA2Brz4mh_3VjLj_kM1eXYPTFwLqUCGo/view?usp=sharing
+And this link contains The Decompiled Files (data.win files are already extracted for you)
+### (changing, please refresh)
 
 ## To Compile and Run it for Yourself
 
