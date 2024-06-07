@@ -22,10 +22,6 @@ such as school chromebooks (for some reason)
 - Also, the game lags alot when spawning particle effects and/or when blocks change (Walkable Cheese blocks) / are destroyed on low-end hardware
 - And the Debug Console is toggleable using F5, but ChromeBooks can't access it. But either way it has no purpose, as commands aren't functional (See Closed Issue #2)
 
-## Also fixes are probably not going to happen by me if at all
-  
-  Why? Because I'm bad at coding, and I'm not sure if this will get any attention by any developers who are willing to waste time to contribute, although I would definitely appreciate it if a dev does contribute :)
-
 ## No files will be listed here, instead being downloadable by a Google Drive Link
 
 This Link contains The Decompiled Files (data.win files are already extracted for you), the Full Compiled PT Web Build, and the Minimalized Build that cuts out files that aren't used, so you can host Pizza Tower on your own website
