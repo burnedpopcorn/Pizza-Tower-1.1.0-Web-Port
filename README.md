@@ -24,9 +24,9 @@ such as school chromebooks (for some reason)
 
 ## Downloads
 
-Download the Revision 2 files in the Releases Tab
+For Self Hosting, Download the Revision 2 files in the Releases Tab
 
-And this link contains The Decompiled Files (data.win files are already extracted for you)
+For Developing, Download The Decompiled Files from this Google Drive Link (data.win files are already extracted for you)
 ### (changing, please refresh)
 
 ## To Compile and Run it for Yourself
