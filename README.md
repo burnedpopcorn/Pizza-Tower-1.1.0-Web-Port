@@ -4,7 +4,7 @@ A Port of Pizza Tower 1.1.0 (The Noise Update) to the Web Browser
 
 http://pt-emscriptenport.x10.mx/runner.html
 
-(Update: No, not to the game. This is a Revision of runner.html that repurposed unused buttons and made them accessible while in-game, and this revision has been applied on the website)
+(Update 6/6/24: THE KNIGHT PEPPINO CRASH HAS BEEN FIXED! THE DEMO SITE WILL BE UPDATED SOON! READ THE OTHER .MD FILE IN THIS REPO FOR MORE INFO)
 
 ## Please read the Entire README
 ### Although it is very long, there are lots of important information to developers and normal users alike, so please read it. It is worth your time if you are going to contribute or at least try the demo website above
