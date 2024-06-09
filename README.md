@@ -4,12 +4,19 @@ A Port of Pizza Tower 1.1.0 (The Noise Update) to the Web Browser
 
 http://pt-emscriptenport.x10.mx/runner.html
 
-### ANOTHER Update 6/9/24: 
-> Commands now work for the most part, and I reused the Eggplant Build's Level Select and reimplimented it. I won't Upload it yet, as the Level Select needs some Polish and NOISE
+### ANOTHER Update 6/10/24: 
+> (Most) Commands now work, and I reused the Eggplant Build's Level Select and reimplimented it and redesigned it
+>
+> (Also the Noise is now unlocked by Default)
+> 
+> - Press CTRL or F8 for Debug HUD (Just FPS counter and Memory Visualizer)
+> - Press ALT or F6 to Switch Characters (Peppino / Noise) on the Fly (Regardless of Save Type Selected)
+> - Press F5 OR Tab to Open the Console
 
 (Update 6/6/24: THE KNIGHT PEPPINO CRASH HAS BEEN FIXED! READ THE OTHER .MD FILE IN THIS REPO FOR MORE INFO)
 
-### ALSO CLEAR YOUR SITE CACHE IF YOU HAVE PLAYED THIS PORT BEFORE THIS UPDATE (Outdated Cache causes another crash, so clear it)
+### ALSO CLEAR YOUR SITE CACHE IF YOU HAVE PLAYED THIS PORT BEFORE THIS UPDATE 
+(Outdated Cache causes another crash, so clear it)
 
 ## Please read the Entire README
 ### Although it is very long, there are lots of important information to developers and normal users alike, so please read it. It is worth your time if you are going to contribute or at least try the demo website above
