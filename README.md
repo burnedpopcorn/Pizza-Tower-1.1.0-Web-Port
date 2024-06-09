@@ -36,10 +36,9 @@ such as school chromebooks (for some reason)
 
 ## Downloads
 
-For Self Hosting, Download the Revision 2 files in the Releases Tab
+For Self Hosting, Download the self hosting files in the Releases Tab
 
-For Developing, Download The Decompiled Files from this Google Drive Link (data.win files are already extracted for you)
-### https://drive.google.com/file/d/14JyDHA-hwoBAvKXr1jYeRxhVVjSw41T5/view?usp=sharing
+For Developing, Download The (Modified) Decompiled Files from the Releases Tab (data.win files are already extracted for you)
 
 ## To Compile and Run it for Yourself
 
