@@ -6,6 +6,8 @@ http://pt-emscriptenport.x10.mx/runner.html
 
 (Update 6/6/24: THE KNIGHT PEPPINO CRASH HAS BEEN FIXED! READ THE OTHER .MD FILE IN THIS REPO FOR MORE INFO)
 
+### ALSO CLEAR YOUR SITE CACHE IF YOU HAVE PLAYED THIS PORT BEFORE THIS UPDATE (Outdated Cache causes another crash, so clear it)
+
 ## Please read the Entire README
 ### Although it is very long, there are lots of important information to developers and normal users alike, so please read it. It is worth your time if you are going to contribute or at least try the demo website above
 
