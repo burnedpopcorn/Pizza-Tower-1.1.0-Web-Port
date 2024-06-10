@@ -32,7 +32,6 @@ Although saves do work correctly
 > You should immediately toggle ```Borderless```, then toggle ```Fullscreen``` while in-game, as it resolves the Game Frame issue, and it improves performace on extremely low-powered hardware
 such as school chromebooks (for some reason)
 - Also, the game lags alot when spawning particle effects and/or when blocks change (Walkable Cheese blocks) / are destroyed on low-end hardware
-- And the Debug Console is toggleable using F5, but ChromeBooks can't access it. But either way it has no purpose, as commands aren't functional (See Closed Issue #2)
 
 ## Downloads
 
