@@ -4,6 +4,19 @@ A Port of Pizza Tower 1.1.0 (The Noise Update) to the Web Browser
 
 http://pt-emscriptenport.x10.mx/runner.html
 
+### MORE UPDATES (6/11/24)
+- Game Frame is fixed now
+> Thanks to Neybo for leading me in the right direction(Issue #15)
+- Level Select is now located in the Old Tower Secret Room and has its own dedicated Starting Gate
+> The Old Pizza Box has been removed from Tower Entrance
+- Tutorial Blocks have been removed from the Tower Entrance
+> Tutorial Completion is still needed to unlock Lap 2
+
+Also will include my barerunner.html project within the website, so you can visit http://pt-emscriptenport.x10.mx/runner.html AND http://pt-emscriptenport.x10.mx/barerunner.html
+> barerunner.html is a minimalist verison of runner.html designed by me and is a complete replacement to it (see my barerunner repo if you're intrested)
+
+Will be applied to the main site in a moment (remember to clear your site cache)
+
 ### ANOTHER Update 6/10/24: 
 > (Most) Commands now work, and I reused the Eggplant Build's Level Select and reimplimented it and redesigned it
 >
