@@ -2,7 +2,9 @@
 
 A Port of Pizza Tower 1.1.0 (The Noise Update) to the Web Browser
 
-http://pt-emscriptenport.x10.mx/runner.html
+https://pt-emscriptenport.x10.mx/runner.html
+
+Minimalistic verison here: https://pt-emscriptenport.x10.mx/barerunner.html
 
 ### MORE UPDATES (6/11/24)
 - Game Frame is fixed now
