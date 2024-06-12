@@ -17,7 +17,7 @@ Minimalistic verison here: https://pt-emscriptenport.x10.mx/barerunner.html
 Also will include my barerunner.html project within the website, so you can visit https://pt-emscriptenport.x10.mx/runner.html AND https://pt-emscriptenport.x10.mx/barerunner.html
 > barerunner.html is a minimalist verison of runner.html designed by me and is a complete replacement to it (see my barerunner repo if you're intrested)
 
-Will be applied to the main site in a moment (remember to clear your site cache)
+This Patch has been applied to the main site (remember to clear your site cache)
 
 ### ANOTHER Update 6/10/24: 
 > (Most) Commands now work, and I reused the Eggplant Build's Level Select and reimplimented it and redesigned it
