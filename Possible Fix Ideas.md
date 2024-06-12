@@ -1,8 +1,6 @@
 # Possible Fix Ideas
 This page is to document what I think are causing issues, which should (barely) help developers improve this project
 
-(Update: See Open Issue #14, I had a thought but I ain't placing it here because this place is already too unreadable)
-
 # Active Issues:
 
 ## No Sound (FMOD)
