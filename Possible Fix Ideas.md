@@ -9,7 +9,7 @@ The game also has no sound, either because FMOD is not initializing during start
 - Or /assets/sound/desktop/[4 different bank files].bank
 - But the game can't locate them in either one.
 This is probably due to the fact FMOD isn't officially supported on GX.GAMES (VM), and I have no idea how to fix this or even where to start, so I doubt seeing sound working using FMOD anytime in the foreseeable future.
-- It also could be because it disables extensions by default, like previously stated in Game Frame Misplacement, and/or it fails to start FMOD ( Initializing FMOD: 0 ), but I'm not sure if that means that it fails to Initialize, as it still calls for the .bank files
+- It also could be because it disables extensions by default, as it fails to start FMOD ( Initializing FMOD: 0 ), but I'm not sure if that means that it fails to Initialize, as it still calls for the .bank files
 
 What will work is to extract all the sound files from the .bank files and place them into a sound folder, which then we would manually remove and replace all FMOD sound functions with functions that would call the appropriate sound file when needed. This would most likely work, as I'm pretty sure the April 2021 build did that and it's sound actually worked, but it would take alot of time.
 
