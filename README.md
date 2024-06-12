@@ -42,10 +42,6 @@ Unfornately there are many bugs that can negatively impact the game such as
 - And many more I did not encounter during my time play testing
 
 Although saves do work correctly
-> [!NOTE]
-> You should immediately toggle ```Borderless```, then toggle ```Fullscreen``` while in-game, as it resolves the Game Frame issue, and it improves performace on extremely low-powered hardware
-such as school chromebooks (for some reason)
-- Also, the game lags alot when spawning particle effects and/or when blocks change (Walkable Cheese blocks) / are destroyed on low-end hardware
 
 ## Downloads
 
