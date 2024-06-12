@@ -14,7 +14,7 @@ Minimalistic verison here: https://pt-emscriptenport.x10.mx/barerunner.html
 - Tutorial Blocks have been removed from the Tower Entrance
 > Tutorial Completion is still needed to unlock Lap 2
 
-Also will include my barerunner.html project within the website, so you can visit http://pt-emscriptenport.x10.mx/runner.html AND http://pt-emscriptenport.x10.mx/barerunner.html
+Also will include my barerunner.html project within the website, so you can visit https://pt-emscriptenport.x10.mx/runner.html AND https://pt-emscriptenport.x10.mx/barerunner.html
 > barerunner.html is a minimalist verison of runner.html designed by me and is a complete replacement to it (see my barerunner repo if you're intrested)
 
 Will be applied to the main site in a moment (remember to clear your site cache)
@@ -36,11 +36,10 @@ Will be applied to the main site in a moment (remember to clear your site cache)
 ## Please read the Entire README
 ### Although it is very long, there are lots of important information to developers and normal users alike, so please read it. It is worth your time if you are going to contribute or at least try the demo website above
 
-Unfornately there are many bugs that can severely impact the game such as
+Unfornately there are many bugs that can negatively impact the game such as
 - No sound
-- Game Frame being heavily misplaced (Somewhat Fixable through ingame settings)
 - Crash when buying clothes from Mr. Mooney or Noisette in the last Level of the Tower (See Open Issue #13)
-- And many more I did not encounter during my time play testing (which only went up to Level 3)
+- And many more I did not encounter during my time play testing
 
 Although saves do work correctly
 > [!NOTE]
