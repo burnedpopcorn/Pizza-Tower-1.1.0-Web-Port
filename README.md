@@ -8,7 +8,7 @@ Minimalistic verison here: https://pt-emscriptenport.x10.mx/barerunner.html
 
 ### MORE UPDATES (6/11/24)
 - Game Frame is fixed now
-> Thanks to Neybo for leading me in the right direction(Issue #15)
+> Thanks to Neybo for leading me in the right direction (Issue #15)
 - Level Select is now located in the Old Tower Secret Room and has its own dedicated Starting Gate
 > The Old Pizza Box has been removed from Tower Entrance
 - Tutorial Blocks have been removed from the Tower Entrance
