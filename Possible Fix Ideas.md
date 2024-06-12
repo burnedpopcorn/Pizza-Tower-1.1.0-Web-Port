@@ -64,5 +64,5 @@ Example of PATCHED code
 ```
 
 ## ~~Debug Console and Commands~~
-This has been fixed for the most part. I say that as some commands take in extra instructions after the base commmand that won't work, as the Caps Lock issue is still present, and the game still expects
+This has been fixed for the most part. I say that as commands that take in extra instructions after the base commmand won't work, as the Caps Lock issue is still present, and the game still expects
 them to be lower case.
