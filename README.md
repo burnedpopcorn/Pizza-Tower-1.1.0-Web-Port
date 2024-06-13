@@ -6,32 +6,19 @@ https://pt-emscriptenport.x10.mx/runner.html
 
 Minimalistic verison here: https://pt-emscriptenport.x10.mx/barerunner.html
 
-### MORE UPDATES (6/11/24)
-- Game Frame is fixed now
-> Thanks to Neybo for leading me in the right direction (Issue #15)
-- Level Select is now located in the Old Tower Secret Room and has its own dedicated Starting Gate
-> The Old Pizza Box has been removed from Tower Entrance
-- Tutorial Blocks have been removed from the Tower Entrance
-> Tutorial Completion is still needed to unlock Lap 2
+NEW Update (6/13/24)
+- See Latest Release for Info (Currently Revision 5)
 
-Also will include my barerunner.html project within the website, so you can visit https://pt-emscriptenport.x10.mx/runner.html AND https://pt-emscriptenport.x10.mx/barerunner.html
-> barerunner.html is a minimalist verison of runner.html designed by me and is a complete replacement to it (see my barerunner repo if you're intrested)
+## HOW TO CLEAR CACHE
+> This is needed everytime I update the main website
 
-This Patch has been applied to the main site (remember to clear your site cache)
+```
+First Step: Go to the website, then press the lever button in the left-side of the URL bar, then press Cookies and Data -> Manage on-device site data -> then delete cache by pressing the trash can icon that is next to the website URL
+Last Step: Go to chrome://settings, search for "cache" in the search bar, and click "Clear browsing data". Enter and ONLY SELECT "Cached Images and files" (anything else is unnecessary)
 
-### ANOTHER Update 6/10/24: 
-> (Most) Commands now work, and I reused the Eggplant Build's Level Select and reimplimented it and redesigned it
->
-> (Also the Noise is now unlocked by Default)
-> 
-> - Press CTRL or F8 for Debug HUD (Just FPS counter and Memory Visualizer)
-> - Press ALT or F6 to Switch Characters (Peppino / Noise) on the Fly (Regardless of Save Type Selected)
-> - Press F5 OR Tab to Open the Console
-
-(Update 6/6/24: THE KNIGHT PEPPINO CRASH HAS BEEN FIXED! READ THE OTHER .MD FILE IN THIS REPO FOR MORE INFO)
-
-### ALSO CLEAR YOUR SITE CACHE IF YOU HAVE PLAYED THIS PORT BEFORE THIS UPDATE 
-(Outdated Cache causes another crash, so clear it)
+Enjoy the New Update!
+```
+> Unfortunately, this deletes your save files, but at least you have Level Select and Commands
 
 ## Please read the Entire README
 ### Although it is very long, there are lots of important information to developers and normal users alike, so please read it. It is worth your time if you are going to contribute or at least try the demo website above
