@@ -56,13 +56,18 @@ The only way for them to work is if you have a web server running this, or a loc
 - Which you can do by entering the directory containing ```runner.html``` and other files and typing the command ```python3 -m http.server``` in the linux terminal or ```py -m http.server``` for windows powershell given you installed python
 - At which point you can enter ```http://localhost:8000/runner.html``` to play the game locally
 
+I also recommend using my custom version of ```runner.html```, or even my minimalized version of it called ```barerunner.html```, as they are just generally better than the stock output
+
 ## Thanks to
 - loypoll for the full decompilation of the recent Pizza Tower Update
 - krzys_h and UnderminersTeam for the UnderTaleMod and the ability to decompile GameMakerStudio2 games like Undertale and Pizza Tower
-- And of course Tour de Pizza for the base game
+- Tour de Pizza for the base game
+- And You for the support and playtesting!
 
 ## To certain users
 This project was primarily made to play Pizza Tower on locked-down school chromebooks for lazy ass students. Please do not use this project to avoid paying for the PC version of the game. By doing this you not only harming the creator of Pizza Tower, but also harming your experience with this amazing game with a version filled with bugs, crashes, and lost functionality
+
+But I know you probably won't care, so please at least support the creator in some way or at least plan to in the future (I definitely will)
 
 ## To Developers
 For anyone that wants to spill time into this, Visit [Possible Fix Ideas.MD](https://github.com/burnedpopcorn/Pizza-Tower-1.1.0-Web-Port/blob/main/Possible%20Fix%20Ideas.md) within this repository to see my write-up on known issues listed above, and what I observed trying to troubleshoot this game. Not sure how well this will help since
