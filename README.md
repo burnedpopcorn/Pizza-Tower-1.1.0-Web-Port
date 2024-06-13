@@ -12,12 +12,16 @@ NEW Update (6/13/24)
 ## HOW TO CLEAR CACHE
 > This is needed everytime I update the main website
 
-```
-First Step: Go to the website, then press the lever button in the left-side of the URL bar, then press Cookies and Data -> Manage on-device site data -> then delete cache by pressing the trash can icon that is next to the website URL
-Last Step: Go to chrome://settings, search for "cache" in the search bar, and click "Clear browsing data". Enter and ONLY SELECT "Cached Images and files" (anything else is unnecessary)
+
+First Step: Go to the website, then press the lever button in the left-side of the URL bar, then press Cookies and Data
+-> Manage on-device site data -> then delete cache by pressing the trash can icon that is next to the website URL
+
+Last Step: Go to chrome://settings, search for "cache" in the search bar, and click "Clear browsing data".
+Enter and ONLY SELECT "Cached Images and files" (anything else is unnecessary)
 
 Enjoy the New Update!
-```
+
+> [!IMPORTANT]
 > Unfortunately, this deletes your save files, but at least you have Level Select and Commands
 
 ## Please read the Entire README
