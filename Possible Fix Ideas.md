@@ -13,14 +13,6 @@ This is probably due to the fact FMOD isn't officially supported on GX.GAMES (VM
 
 What will work is to extract all the sound files from the .bank files and place them into a sound folder, which then we would manually remove and replace all FMOD sound functions with functions that would call the appropriate sound file when needed. This would most likely work, as I'm pretty sure the April 2021 build did that and it's sound actually worked, but it would take alot of time.
 
-## Mr. Mooney and Noisette Clothes Crash
-> This was reported by @AJNurtnick (Issue #13)
-
-The game crashes when paying Mr. Mooney or Noisette for clothes
-> This is in the Last Level of the Tower, and the game can still be beaten
-
-Unfornately, I have little idea how to fix the problem, so this might take a long time to fix if ever
-
 ## Clothes don't Work
 Clothes can be collected, but cannot be applied
 > Not sure this will be fixed anytime soon (as it's not high priority)
@@ -68,3 +60,11 @@ Example of PATCHED code
 ## ~~Debug Console and Commands~~
 This has been fixed for the most part. I say that as commands that take in extra instructions after the base commmand won't work, as the Caps Lock issue is still present, and the game still expects
 them to be lower case.
+
+## Mr. Mooney and Noisette Clothes Crash
+> This was reported by @AJNurtnick (Issue #13), and has been fixed since Revision 5
+
+loypoll ended up fixing it for me after I reported this issue to him, so easy fix on my part :)
+- The problem ended up being him forgeting to provide a definition for the variable ```pals``` in ```obj_mrmooney``` in his decomp, which is the base for this port
+
+But now he included it, so its fixed
