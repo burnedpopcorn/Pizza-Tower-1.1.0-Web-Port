@@ -27,12 +27,11 @@ Enjoy the New Update!
 ## Please read the Entire README
 ### Although it is very long, there are lots of important information to developers and normal users alike, so please read it. It is worth your time if you are going to contribute or at least try the demo website above
 
-Unfornately there are many bugs that can negatively impact the game such as
+Unfornately there are still some bugs that can negatively impact the game such as
 - No sound
-- Crash when buying clothes from Mr. Mooney or Noisette in the last Level of the Tower (See Open Issue #13)
 - And many more I did not encounter during my time play testing
 
-Although saves do work correctly
+Luckily, I have managed to fix many crashes and issues along the way, so the game is very playable now, with some extra features missing from the vanilla game
 
 ## Downloads
 
