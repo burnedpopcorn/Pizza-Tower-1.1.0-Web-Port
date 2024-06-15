@@ -41,7 +41,7 @@ For Self Hosting, Download the self hosting files in the Releases Tab
 
 For Developing, Download The (Modified) Decompiled Files from the Releases Tab (data.win files are already extracted for you)
 
-## To Compile and Run it for Yourself
+## To Compile and Run it Locally
 
 > [!WARNING]
 > Use the 2022 LTS Gamemaker runtime (Runtime 2022.0.1.30), as anything older or anything newer will eventually cause problems while compiling
@@ -59,6 +59,15 @@ The only way for them to work is if you have a web server running this, or a loc
 - At which point you can enter ```http://localhost:8000/runner.html``` to play the game locally
 
 I also recommend using my custom version of ```runner.html```, or even my minimalized version of it called ```barerunner.html```, as they are just generally better than the stock output
+
+## To Self-Host
+- Download and Extract the Latest Build from the Releases Tab (not the Source Code zip)
+- Decide which website provider you will be using (for absolutely free hosting, I strongly recommend x10hosting)
+- Go to your website's file manager, and go to the root of your website's domain (or wherever the public files go in your file manager)
+- Upload all the files there (do not including any folders, just the assets like runner.html)
+- Check your self-hosted build at ```http:// (EXAMPLE.COM) /runner.html``` or ```http:// (EXAMPLE.COM) / barerunner.html``` if you included that file
+> [!NOTE]
+> If it does not work for you, try waiting some time, and if it still doesn't work, check your provider's community forums for information regarding uploading files
 
 ## Thanks to
 - loypoll for the full decompilation of the recent Pizza Tower Update
