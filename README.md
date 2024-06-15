@@ -27,8 +27,7 @@ Enjoy the New Update!
 > [!IMPORTANT]
 > Unfortunately, this deletes your save files, but at least you have Level Select and Commands
 
-## Please read the Entire README
-### Although it is very long, there are lots of important information to developers and normal users alike, so please read it. It is worth your time if you are going to contribute or at least try the demo website above
+## Current state of the Project
 
 Unfornately there are still some bugs that can negatively impact the game such as
 - No sound
