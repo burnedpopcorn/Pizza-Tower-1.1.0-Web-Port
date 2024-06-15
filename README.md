@@ -6,11 +6,8 @@ https://pt-emscriptenport.x10.mx/runner.html
 
 Minimalistic verison here: https://pt-emscriptenport.x10.mx/barerunner.html
 
-NEW Update (6/13/24)
-- See Latest Release for Info (Currently Revision 5)
-
 ## HOW TO CLEAR CACHE
-> This is needed everytime I update the main website
+> This is needed everytime I update the main website, else the game crashes
 
 
 First Step: Go to the website, then press the lever button in the left-side of the URL bar, then press ```Cookies and Data```
