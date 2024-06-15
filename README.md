@@ -16,7 +16,7 @@ But at least you wont have to clear your cache frequently anymore :)
 > This is needed everytime I update the main website, else the game crashes
 
 
-First Step: Go to the website, then press the lever button in the left-side of the URL bar, then press ```Cookies and Data```
+First Step: Go to the website, then press the lever/lock button in the left-side of the URL bar, then press ```Cookies and Data```
 -> ```Manage on-device site data``` -> then delete cache by pressing the trash can icon that is next to the website URL
 
 Last Step: Go to ```chrome://settings```, search for ```"cache"``` in the search bar, and click ```"Clear browsing data"```.
