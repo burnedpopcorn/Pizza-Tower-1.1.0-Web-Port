@@ -62,7 +62,7 @@ I also recommend using my custom version of ```runner.html```, or even my minima
 
 ## To Self-Host it
 - Download and Extract the Latest Build from the Releases Tab (not the Source Code zip)
-- Decide which website provider you will be using (for absolutely free hosting, I strongly recommend x10hosting)
+- Decide which website provider you will be using (for absolutely free hosting, I strongly recommend x10hosting, PLUS it has to provide at least 300mb of storage space)
 - Go to your website's file manager, and go to the root of your website's domain (or wherever the public files go in your file manager)
 - Upload all the files there (do not including any folders, just the assets like runner.html)
 - Check your self-hosted build at ```http:// (YOURDOMAIN.HERE) /runner.html``` or ```http:// (YOURDOMAIN.HERE) / barerunner.html``` if you included that file
