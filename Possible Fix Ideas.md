@@ -27,7 +27,7 @@ This was caused by the GameFrame Gamemaker Extension still being in use in the w
 
 ## ~~Knight Peppino Crash~~
 
-This was caused by missing parenthesis in scr_player_knightpepslopes. I realized this when looking at an Eggplant Decomp by loypoll (same guy that made the noise update decomp used in this project), and saw the missing parenthesis. This was probably caused by an oversight within the noise update decomp itself, so I would probably be notifying loypoll about this issue so he can fix it in his decomp.
+This was caused by missing parenthesis in ```scr_player_knightpepslopes```. I realized this when looking at an Eggplant Decomp by loypoll (same guy that made the noise update decomp used in this project), and saw the missing parenthesis. This was probably caused by an oversight within the noise update decomp itself, so I would probably be notifying loypoll about this issue so he can fix it in his decomp.
 > The problematic code line is Line 77 (```image_index = [ ]```)
 
 Example of UNpatched code
@@ -61,7 +61,7 @@ Example of PATCHED code
 This has been fixed for the most part. I say that as commands that take in extra instructions after the base commmand won't work, as the Caps Lock issue is still present, and the game still expects
 them to be lower case.
 
-## Mr. Mooney and Noisette Clothes Crash
+## ~~Mr. Mooney and Noisette Clothes Crash~~
 > This was reported by @AJNurtnick (Issue #13), and has been fixed since Revision 5
 
 loypoll ended up fixing it for me after I reported this issue to him, so easy fix on my part :)
