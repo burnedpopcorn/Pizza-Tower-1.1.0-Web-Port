@@ -49,6 +49,7 @@ For Developing, Download The (Modified) Decompiled Files from the Releases Tab (
 
 - Use GX.GAMES and VM options to compile it, and to obtain the compiled files from GameMaker Studio for free, just go to ```C:/Users/(your username)/AppData/Local/GameMakerStudio2-LTS/GMS2TEMP``` while locally running the game
 - In which you will find a folder called ```PizzaTower_GMS_(some numbers)_VM``` after you compiled the project
+> The only really important files are in the ```/runner/``` folder
 
 The said files will NOT run locally as file:// will just result in CORS errors and will not allow runner.html (the main file that runs Pizza Tower) to read the game files
 
