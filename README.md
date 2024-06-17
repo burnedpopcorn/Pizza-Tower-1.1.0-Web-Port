@@ -31,6 +31,7 @@ Enjoy the New Update!
 
 Unfornately there are still some bugs that can negatively impact the game such as
 - No sound
+- No Clothes
 - And many more I did not encounter during my time play testing
 
 Luckily, I have managed to fix many crashes and issues along the way, so the game is very playable now, with some added extra features that even the vanilla game lacks
