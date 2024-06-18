@@ -36,6 +36,16 @@ Unfornately there are still some bugs that can negatively impact the game such a
 
 Luckily, I have managed to fix many crashes and issues along the way, so the game is very playable now, with some added extra features that even the vanilla game lacks
 
+## Extra Features
+- Level Select
+    > Level Select Entrance is located in the Old Tower Secret Room (First Floor)
+- Custom Commands
+    > Currently there is only one, ```LEVELSELECT```, which brings you to the Level Select (EXPERIMENTAL and currently has issues, so I recommend the Intended Entrance instead)
+- Custom Keybinds
+    > ```CTRL``` activates command ```DEBUGHUD```, which displays a FPS counter and what seems to be a Memory Visualizer
+    > 
+    > ```ALT``` activates command ```SWITCHCHAR```, which lets you switch characters immediately (Certain animations can delay or prevent this effect)
+
 ## Downloads
 
 For Self Hosting, Download the self hosting files in the Releases Tab
