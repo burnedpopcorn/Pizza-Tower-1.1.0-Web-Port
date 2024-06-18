@@ -15,6 +15,10 @@ What will work is to extract all the sound files from the .bank files and place 
 
 ## Clothes don't Work
 Clothes can be collected, but cannot be applied
+
+The Only possible way I could think to fix this is to look at the code from other older builds once again, as the Web Builds hosted on
+GX.GAMES have some animations that use the normal Peppino Pallette (such as the Upper-Cut Move on the PTO Port)
+
 > Not sure this will be fixed anytime soon (as it's not high priority)
 
 # Fixed Issues:
