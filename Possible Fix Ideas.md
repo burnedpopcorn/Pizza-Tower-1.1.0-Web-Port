@@ -62,8 +62,9 @@ Example of PATCHED code
 ```
 
 ## ~~Debug Console and Commands~~
-This has been fixed for the most part. I say that as commands that take in extra instructions after the base commmand won't work, as the Caps Lock issue is still present, and the game still expects
-them to be lower case.
+This has been fixed for the most part. I say that as commands that take in extra instructions after the base commmand won't work, as the Caps Lock issue is still present, and the game still expects them to be lower case.
+
+The Fix was to just make all the commands Upper-Case and into one Word (instead of underscores)
 
 ## ~~Mr. Mooney and Noisette Clothes Crash~~
 > This was reported by @AJNurtnick (Issue #13), and has been fixed since Revision 5
