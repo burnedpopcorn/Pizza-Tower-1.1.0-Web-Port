@@ -83,7 +83,7 @@ I also recommend using my custom version of ```runner.html```, or even my minima
   > 
   > It is recommended to choose a provider that can provide Unlimited Bandwidth, as the website will transfer 300mb per visitor, so Bandwidth Use will probably skyrocket into the Terabytes
 
-    - For absolutely free hosting, I strongly recommend x10hosting, as they satisfy these requirements for free
+> For absolutely free hosting, I strongly recommend x10hosting, as they satisfy these requirements for free
 - Go to your website's file manager, and go to the root of your website's domain (or wherever the public files go in your file manager)
 - Upload all the files there (do not include any folders, just the assets such as runner.html)
 - Check your self-hosted build at ```http:// (YOURDOMAIN.HERE) /runner.html``` or ```http:// (YOURDOMAIN.HERE) / barerunner.html``` if you included that file
