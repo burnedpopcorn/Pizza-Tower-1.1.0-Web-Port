@@ -42,9 +42,11 @@ Luckily, I have managed to fix many crashes and issues along the way, so the gam
 - Custom Commands
     > Currently there is only one, ```LEVELSELECT```, which brings you to the Level Select (EXPERIMENTAL and currently has issues, so I recommend the Intended Entrance instead)
 - Custom Keybinds
-    > ```CTRL``` activates command ```DEBUGHUD```, which displays a FPS counter and what seems to be a Memory Visualizer
+    > ```TAB / F5``` opens the Console
+    >
+    > ```CTRL / F8``` activates command ```DEBUGHUD```, which displays a FPS counter and what seems to be a Memory Visualizer
     > 
-    > ```ALT``` activates command ```SWITCHCHAR```, which lets you switch characters immediately (Certain animations can delay or prevent this effect)
+    > ```ALT / F6``` activates command ```SWITCHCHAR```, which lets you switch characters immediately (Certain animations can delay or prevent this effect)
 
 ## Downloads
 
