@@ -19,6 +19,8 @@ Clothes can be collected, but cannot be applied
 The only possible way I could think to fix this is to look at the code from other older builds once again, as the Web Builds hosted on
 GX.GAMES have some animations that use the normal Peppino Pallette (The Normal White Clothes instead of the Placeholder Yellow Clothes), such as the Upper-Cut Move on the PTO Port
 
+Also, in this port there are instances of the Pallette System working fine, such as Title Screen Peppino in the dark, and the Peppino Clones in WAR
+
 > Not sure this will be fixed anytime soon (as it's not high priority)
 
 # Fixed Issues:
