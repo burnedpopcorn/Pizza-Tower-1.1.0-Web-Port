@@ -31,8 +31,8 @@ Enjoy the New Update!
 
 Unfornately there are still some bugs that can negatively impact the game such as
 - No sound
-- No Clothes Swapping / Classic Cook Clothes being forced Yellow
-- And many more I did not encounter during my time play testing
+- No Clothes Swapping / Peppino's Clothes being forced Yellow
+> Playtesting went as far as to beat the game (BOTH ENDINGS as Peppino & Noise) and basic use of Swap Mode
 
 Luckily, I have managed to fix many crashes and issues along the way, so the game is very playable now, with some added extra features that even the vanilla game lacks
 
