@@ -35,7 +35,6 @@ Unfornately there are still some bugs that can negatively impact the game such a
 > Playtesting went as far as to beat the game (BOTH ENDINGS as Peppino & Noise) and basic use of Swap Mode
 
 - Also gonna try and improve the Level Select some more
-- And add a Save Downloader / Uploader to backup saves in case of an eventual update to the site (might not happen if browser limitations are present)
 
 Luckily, I have managed to fix many crashes and issues along the way, so the game is very playable now with NO CRASHES, and has some added extra features that even the vanilla game lacks
 
