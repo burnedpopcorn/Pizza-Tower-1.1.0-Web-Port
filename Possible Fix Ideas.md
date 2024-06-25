@@ -63,18 +63,10 @@ Example of PATCHED code
 		}
 ```
 
-## Debug Console and Commands
+## ~~Debug Console and Commands~~
 This has been fixed for the most part. I say that as commands that take in extra instructions after the base commmand won't work, as the Caps Lock issue is still present, and the game still expects them to be lower case.
 
 The Fix was to just make all the commands Upper-Case and into one Word (instead of underscores)
-
-### BUT, I have found code in the files that might Completely fix everything and make commands work 100% (possibly)
-
-In Line 152, there are two instances of this text in ```runner.js``` that seems to be a Key Map or something: ```(t+="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/"```
-
-The way the letters are organized could be the root problem preventing us to type in normal lower-case letters, plus the lack of a ```_``` and ```.``` could also explain our inability to input those keys.
-
-This could work, but could also screw up movement keys, as the game's code refers to movement keys as Z, X, C, etc.
 
 ## ~~Mr. Mooney and Noisette Clothes Crash~~
 > This was reported by @AJNurtnick (Issue #13), and has been fixed since Revision 5
