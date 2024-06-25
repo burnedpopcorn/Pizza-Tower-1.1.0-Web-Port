@@ -68,11 +68,11 @@ This has been fixed for the most part. I say that as commands that take in extra
 
 The Fix was to just make all the commands Upper-Case and into one Word (instead of underscores)
 
-### BUT, I have found code in runner.js that might Completely fix everything and make commands work 100% (possibly)
+### BUT, I have found code in the files that might Completely fix everything and make commands work 100% (possibly)
 
-In Line 152, there are two instances of this text that seems to be a Key Map or something: ```(t+="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/"```
+In Line 152, there are two instances of this text in ```runner.js``` that seems to be a Key Map or something: ```(t+="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/"```
 
-The way the letters are organized could be the root problem preventing us to type in normal lower-case letters, plus the lack of a _ and . could also explain our inability to input those keys.
+The way the letters are organized could be the root problem preventing us to type in normal lower-case letters, plus the lack of a ```_``` and ```.``` could also explain our inability to input those keys.
 
 This could work, but could also screw up movement keys, as the game's code refers to movement keys as Z, X, C, etc.
 
