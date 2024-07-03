@@ -6,12 +6,6 @@ https://pt-emscriptenport.x10.mx/runner.html
 
 Minimalistic verison here: https://pt-emscriptenport.x10.mx/barerunner.html
 
-## Unfortunate Update
-As of 6/15/24, I will be on an long hiatus for an unknown amount of time. This is due to an incident that left me with out a means of updating ANY of my projects, so don't expect an update
-to roll out any time soon. The main site will still be up, and I will try to maintain it if anything were to happen. My projects are NOT being discontinued, as I will immediately start working on them as soon as I can.
-
-But at least you wont have to clear your cache frequently anymore :)
-
 ## HOW TO CLEAR CACHE
 > This is needed everytime I update the main website, else the game crashes
 
