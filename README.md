@@ -6,7 +6,7 @@ https://pt-emscriptenport.x10.mx/runner.html
 
 Minimalistic verison here: https://pt-emscriptenport.x10.mx/barerunner.html
 
-### ATTENTION (About MODS)
+### ATTENTION (ABOUT MODS)
 I have ported Pizza Tower Cheesed Up to the Web Browser, so if you want to play Pizza Tower with mods, go check out that Repo in my Pinned
 
 ## HOW TO CLEAR CACHE
