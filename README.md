@@ -10,7 +10,7 @@ NEW GX.GAMES Upload! https://gx.games/games/9s7us4/pizza-tower-1-1-0-web-port/
 > Just a Launcher to normal website
 
 ### ATTENTION (ABOUT MODS)
-I have ported Pizza Tower Cheesed Up to the Web Browser, so if you want to play Pizza Tower with mods, go check out that Repo in my Pinned
+I have ported Pizza Tower Cheesed Up AND Scoutdigo to the Web Browser, so if you want to play Pizza Tower with mods, go check out that Repo in my Pinned
 
 ## HOW TO CLEAR CACHE
 > This is needed everytime I update the main website, else the game crashes
