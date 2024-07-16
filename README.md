@@ -9,8 +9,11 @@ Minimalistic verison here: https://pt-emscriptenport.x10.mx/barerunner.html
 NEW GX.GAMES Upload! https://gx.games/games/9s7us4/pizza-tower-1-1-0-web-port/
 > Just a Launcher to normal website
 
-### ATTENTION (ABOUT MODS)
-I have ported Pizza Tower Cheesed Up AND Scoutdigo to the Web Browser, so if you want to play Pizza Tower with mods, go check out that Repo in my Pinned
+### Other Ports I've made:
+- Cheesed Up Web Port
+- Scoutdigo v1.2 Web Port
+- Sugary Spire Web Port (Based Off Playtest 3.2 Source Code)
+Find them in my Repos!
 
 ## HOW TO CLEAR CACHE
 > This is needed everytime I update the main website, else the game crashes
