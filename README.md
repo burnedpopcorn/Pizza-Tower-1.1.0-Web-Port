@@ -6,8 +6,10 @@ https://pt-emscriptenport.x10.mx/runner.html
 
 Minimalistic verison here: https://pt-emscriptenport.x10.mx/barerunner.html
 
-NEW GX.GAMES Upload! https://gx.games/games/9s7us4/pizza-tower-1-1-0-web-port/
+GX.GAMES Upload! https://gx.games/games/9s7us4/pizza-tower-1-1-0-web-port/
 > Just a Launcher to normal website
+
+NEW! itch.io Upload: https://burnedpopcorn.itch.io/pizza-tower-110-web-port
 
 ### Other Ports I've made:
 - Cheesed Up Web Port
