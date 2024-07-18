@@ -15,14 +15,10 @@ What will work is to extract all the sound files from the .bank files and place 
 ## Clothes don't Work
 Clothes can be collected, but cannot be applied
 
-~~The only possible way I could think to fix this is to look at the code from other older builds once again, as the Web Builds hosted on
-GX.GAMES have some animations that use the normal Peppino Pallette (The Normal White Clothes instead of the Placeholder Yellow Clothes), such as the Upper-Cut Move on the PTO Port~~
+What is the problem is that the Retro Palette Shader, ```shd_pal_swapper```, doesn't support a GX.GAMES build
+> It supports a HTML build, but the rest of the source code does not
 
-So this was a false lead, as these build had hardcoded the color to be white, instead of using shaders
-
-What is probably the problem is ```shd_pal_swapper``` itself, as that doesn't seem to affect anything
-
-Also, in this port there are instances of the Pallette System working fine, such as Title Screen Peppino in the dark, and the Peppino Clones in WAR (need to check obj_peppinoclone)
+Because of this, this issue will probably never be fixed
 
 # Fixed Issues:
 
