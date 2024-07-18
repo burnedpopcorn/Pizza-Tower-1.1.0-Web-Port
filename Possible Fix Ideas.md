@@ -4,24 +4,34 @@ This page is to document what I think are causing issues, which should (barely) 
 # Active Issues:
 
 ## No Sound (FMOD)
-The game also has no sound, either because FMOD is not initializing during startup, or it cannot locate the .bank files (but it could be both idk). The directory where FMOD expects the .bank files to be should either be 
-- ```/sound/desktop/[4 different bank files].bank```
-- Or ```/assets/sound/desktop/[4 different bank files].bank```
-- But the game can't locate them in either one.
-This is probably due to the fact FMOD isn't officially supported on GX.GAMES (VM), and I have no idea how to fix this or even where to start, so I doubt seeing sound working using FMOD anytime in the foreseeable future.
-- It also could be because it disables extensions by default, as it fails to start FMOD ( Initializing FMOD: 0 ), but I'm not sure if that means that it fails to Initialize, as it still calls for the .bank files
+The game also has no sound, maily because FMOD can't access the .bank files, as it look into IndexedDB for the files instead of the server where the main game files come from
+
+For this reason, FMOD will most likely NEVER work on a Web Port, unless there is a method I haven't tried yet
+> Yes, I've tried pointing FMOD to look at direct download links to the files, but nothing
 
 What will work is to extract all the sound files from the .bank files and place them into a sound folder, which then we would manually remove and replace all FMOD sound functions with functions that would call the appropriate sound file when needed. This would most likely work, as I'm pretty sure the April 2021 build did that and it's sound actually worked, but it would take alot of time.
+> I have made a seperate repo about that
 
 ## Clothes don't Work
 Clothes can be collected, but cannot be applied
 
-The only possible way I could think to fix this is to look at the code from other older builds once again, as the Web Builds hosted on
-GX.GAMES have some animations that use the normal Peppino Pallette (The Normal White Clothes instead of the Placeholder Yellow Clothes), such as the Upper-Cut Move on the PTO Port
+~~The only possible way I could think to fix this is to look at the code from other older builds once again, as the Web Builds hosted on
+GX.GAMES have some animations that use the normal Peppino Pallette (The Normal White Clothes instead of the Placeholder Yellow Clothes), such as the Upper-Cut Move on the PTO Port~~
 
-Also, in this port there are instances of the Pallette System working fine, such as Title Screen Peppino in the dark, and the Peppino Clones in WAR
+So this was a false lead, as these build had hardcoded the color to be white, instead of using shaders
 
-> Not sure this will be fixed anytime soon (as it's not high priority)
+What is probably the problem is this:
+
+```
+Example of not functional code:
+	global.Pattern_Texture = shader_get_sampler_index(argument[0], "pattern_texture");
+Example of working code:
+	global.N_Pal_Texture = shader_get_sampler_index(shd_noise_afterimage, "palette_texture");
+```
+
+For the Noise specific code, it specifies the shader, but not for the normal stuff
+
+Also, in this port there are instances of the Pallette System working fine, such as Title Screen Peppino in the dark, and the Peppino Clones in WAR (need to check obj_peppinoclone)
 
 # Fixed Issues:
 
