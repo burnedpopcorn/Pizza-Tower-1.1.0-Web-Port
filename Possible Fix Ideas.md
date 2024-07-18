@@ -20,16 +20,7 @@ GX.GAMES have some animations that use the normal Peppino Pallette (The Normal W
 
 So this was a false lead, as these build had hardcoded the color to be white, instead of using shaders
 
-What is probably the problem is this:
-
-```
-Example of not functional code:
-	global.Pattern_Texture = shader_get_sampler_index(argument[0], "pattern_texture");
-Example of working code:
-	global.N_Pal_Texture = shader_get_sampler_index(shd_noise_afterimage, "palette_texture");
-```
-
-For the Noise specific code, it specifies the shader, but not for the normal stuff
+What is probably the problem is ```shd_pal_swapper``` itself, as that doesn't seem to affect anything
 
 Also, in this port there are instances of the Pallette System working fine, such as Title Screen Peppino in the dark, and the Peppino Clones in WAR (need to check obj_peppinoclone)
 
