@@ -9,7 +9,11 @@ Minimalistic verison here: https://pt-emscriptenport.x10.mx/barerunner.html
 GX.GAMES Upload! https://gx.games/games/9s7us4/pizza-tower-1-1-0-web-port/
 > Just a Launcher to normal website
 
-NEW! itch.io Upload: https://burnedpopcorn.itch.io/pizza-tower-110-web-port
+itch.io Upload: https://burnedpopcorn.itch.io/pizza-tower-110-web-port
+
+NEW DISCORD SERVER! Check it out!
+
+[![Discord Invite Link](https://theprojects.x10.mx/discord.jpg)](https://discord.gg/BJSkBEPU)
 
 ### Other Ports I've made:
 - Cheesed Up Web Port
