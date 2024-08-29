@@ -3,15 +3,6 @@ This page is to document what I think are causing issues, which should (barely) 
 
 # Active Issues:
 
-## No Sound (FMOD)
-The game also has no sound, maily because FMOD can't access the .bank files, as it look into IndexedDB for the files instead of the server where the main game files come from
-
-For this reason, FMOD will most likely NEVER work on a Web Port, unless there is a method I haven't tried yet
-> Yes, I've tried pointing FMOD to look at direct download links to the files, but nothing
-
-What will work is to extract all the sound files from the .bank files and place them into a sound folder, which then we would manually remove and replace all FMOD sound functions with functions that would call the appropriate sound file when needed. This would most likely work, as I'm pretty sure the April 2021 build did that and it's sound actually worked, but it would take alot of time.
-> I have made a seperate repo about that
-
 ## Clothes don't Work
 Clothes can be collected, but cannot be applied
 
@@ -29,6 +20,11 @@ Because of this, this issue will probably never be fixed
 This was caused by the GameFrame Gamemaker Extension still being in use in the web port. Removing code that initalizes the GameFrame Extension from ```obj_screensizer``` (Create) seems to fix it, but the remaining code should be forcfully set to a specific width and height to avoid possibly calling another GameFrame function (and to ensure specified width and height across the game). 
 - Also included some code from the Eggplant Build's ```obj_screensizer``` (just in case it was needed)
 - Other additions and removals that I will not specify here (just download the source code in the releases tab to see all changes within the code itself)
+
+~~Sound Not Working (FMOD)~~
+The game also has no sound, mainly because FMOD can't access the .bank files, as it looks into IndexedDB for the files instead of the server where the main game files come from
+
+How I fixed this was by using D-Official's FMOD Script, so yeah, that's it
 
 ## ~~Knight Peppino Crash~~
 
