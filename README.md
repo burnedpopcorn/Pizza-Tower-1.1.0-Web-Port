@@ -7,7 +7,8 @@ NEW! Sound Build: https://www.autistici.org/burnedprojects/pt_noise_build/runner
 NEW Minimalistic verison: https://www.autistici.org/burnedprojects/pt_noise_build/barerunner.html
 
 > [!NOTE]
-> No Sound Build are here:
+> No Sound Build is here:
+> 
 > https://pt-emscriptenport.x10.mx/runner.html
 > 
 > Minimalistic verison here: https://pt-emscriptenport.x10.mx/barerunner.html
