@@ -2,14 +2,14 @@
 
 A Port of Pizza Tower 1.1.0 (The Noise Update) to the Web Browser
 
-https://pt-emscriptenport.x10.mx/runner.html
+NEW! Sound Build: https://www.autistici.org/burnedprojects/pt_noise_build/runner.html
+NEW Minimalistic verison: https://www.autistici.org/burnedprojects/pt_noise_build/barerunner.html
 
-Minimalistic verison here: https://pt-emscriptenport.x10.mx/barerunner.html
-
-GX.GAMES Upload! https://gx.games/games/9s7us4/pizza-tower-1-1-0-web-port/
-> Just a Launcher to normal website
-
-itch.io Upload: https://burnedpopcorn.itch.io/pizza-tower-110-web-port
+> [!NOTE]
+> No Sound Build are here:
+> https://pt-emscriptenport.x10.mx/runner.html
+> Minimalistic verison here: https://pt-emscriptenport.x10.mx/barerunner.html
+> itch.io Upload: https://burnedpopcorn.itch.io/pizza-tower-110-web-port
 
 ### Other Ports I've made:
 - Cheesed Up Web Port
@@ -18,25 +18,9 @@ itch.io Upload: https://burnedpopcorn.itch.io/pizza-tower-110-web-port
 
 Look for them in my Repos!
 
-## HOW TO CLEAR CACHE
-> This is needed everytime I update the main website, else the game crashes
-
-
-First Step: Go to the website, then press the lever/lock button in the left-side of the URL bar, then press ```Cookies and Data```
--> ```Manage on-device site data``` -> then delete cache by pressing the trash can icon that is next to the website URL
-
-Last Step: Go to ```chrome://settings```, search for ```"cache"``` in the search bar, and click ```"Clear browsing data"```.
-Enter and ONLY SELECT ```"Cached Images and files"``` (anything else is unnecessary)
-
-Enjoy the New Update!
-
-> [!IMPORTANT]
-> Unfortunately, this deletes your save files, but at least you have Level Select and Commands
-
 ## Current state of the Project
 
 Unfornately there are still some bugs that can negatively impact the game such as
-- No sound
 - No Clothes Swapping / Peppino's Clothes being forced Yellow
 > Playtesting went as far as to beat the game (BOTH ENDINGS as Peppino & Noise) and basic use of Swap Mode
 
@@ -100,14 +84,11 @@ I also recommend using my custom version of ```runner.html```, or even my minima
 
 ## Thanks to
 - loypoll for the full decompilation of the recent Pizza Tower Update
+> but still, fuck you for falsely DMCA'ing my Cheesed Up Web Ports
 - krzys_h and UnderminersTeam for the UnderTaleMod and the ability to decompile GameMakerStudio2 games like Undertale and Pizza Tower
 - Tour de Pizza for the base game
 - And You for the support and playtesting!
 
-## To certain users
-This project was primarily made to play Pizza Tower on locked-down school chromebooks for lazy ass students. Please do not use this project to avoid paying for the PC version of the game. By doing this you not only harming the creator of Pizza Tower, but also harming your experience with this amazing game with a version filled with bugs, crashes, and lost functionality
-
-But I know you probably won't care, so please at least support the creator in some way or at least plan to in the future (I definitely will)
 
 ## To Developers
 For anyone that wants to spill time into this, Visit [Possible Fix Ideas.MD](https://github.com/burnedpopcorn/Pizza-Tower-1.1.0-Web-Port/blob/main/Possible%20Fix%20Ideas.md) within this repository to see my write-up on known issues listed above, and what I observed trying to troubleshoot this game. Not sure how well this will help since
