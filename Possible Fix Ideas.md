@@ -21,7 +21,7 @@ This was caused by the GameFrame Gamemaker Extension still being in use in the w
 - Also included some code from the Eggplant Build's ```obj_screensizer``` (just in case it was needed)
 - Other additions and removals that I will not specify here (just download the source code in the releases tab to see all changes within the code itself)
 
-~~Sound Not Working (FMOD)~~
+## ~~Sound Not Working (FMOD)~~
 The game also has no sound, mainly because FMOD can't access the .bank files, as it looks into IndexedDB for the files instead of the server where the main game files come from
 
 How I fixed this was by using D-Official's FMOD Script, so yeah, that's it
