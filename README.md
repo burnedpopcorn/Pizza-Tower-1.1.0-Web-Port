@@ -3,12 +3,15 @@
 A Port of Pizza Tower 1.1.0 (The Noise Update) to the Web Browser
 
 NEW! Sound Build: https://www.autistici.org/burnedprojects/pt_noise_build/runner.html
+
 NEW Minimalistic verison: https://www.autistici.org/burnedprojects/pt_noise_build/barerunner.html
 
 > [!NOTE]
 > No Sound Build are here:
 > https://pt-emscriptenport.x10.mx/runner.html
+> 
 > Minimalistic verison here: https://pt-emscriptenport.x10.mx/barerunner.html
+> 
 > itch.io Upload: https://burnedpopcorn.itch.io/pizza-tower-110-web-port
 
 ### Other Ports I've made:
