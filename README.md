@@ -53,38 +53,12 @@ For Developing, Download The (Modified) Decompiled Files from the Releases Tab (
 ## To Compile and Run it Locally
 
 > [!WARNING]
-> Use the 2022 LTS Gamemaker runtime (Runtime 2022.0.1.30), as anything older or anything newer will eventually cause problems while compiling
+> For Legacy Revision 6, Use the 2022 LTS Gamemaker runtime (Runtime 2022.0.1.30)
+>
+> For the Latest Revision, Use GameMaker Version 2023.2.0.71
 
-- Use GX.GAMES and VM options to compile it, and to obtain the compiled files from GameMaker Studio for free, just go to ```C:/Users/(your username)/AppData/Local/GameMakerStudio2-LTS/GMS2TEMP``` while locally running the game
-- In which you will find a folder called ```PizzaTower_GMS_(some numbers)_VM``` after you compiled the project
-> The only really important files are in the ```/runner/``` folder
-
-The said files will NOT run locally as file:// will just result in CORS errors and will not allow runner.html (the main file that runs Pizza Tower) to read the game files
-
-> [!NOTE]
-> The YYC Compiler Option does work, but you need Emscripten installed, and nothing is lost nor gained, so I recommend VM, as you don't need to waste time installing Emscripten and there are no upsides anyways
-
-The only way for them to work is if you have a web server running this, or a local server using something like python
-- Which you can do by entering the directory containing ```runner.html``` and other files and typing the command ```python3 -m http.server``` in the linux terminal or ```py -m http.server``` for windows powershell given you installed python
-- At which point you can enter ```http://localhost:8000/runner.html``` to play the game locally
-
-I also recommend using my custom version of ```runner.html```, or even my minimalized version of it called ```barerunner.html```, as they are just generally better than the stock output
-
-## To Self-Host it
-- Download and Extract the Latest Build from the Releases Tab (not the Source Code zip)
-- Decide which website provider you will be using
-
-> [!NOTE]
-  > Your provider of choice has to provide at least 300mb of storage space
-  > 
-  > It is recommended to choose a provider that can provide Unlimited Bandwidth, as the website will transfer 300mb per visitor, so Bandwidth Use will probably skyrocket into the Terabytes
-
-> For absolutely free hosting, I strongly recommend x10hosting, as they satisfy these requirements for free
-- Go to your website's file manager, and go to the root of your website's domain (or wherever the public files go in your file manager)
-- Upload all the files there (do not include any folders, just the assets such as runner.html)
-- Check your self-hosted build at ```http:// (YOURDOMAIN.HERE) /runner.html``` or ```http:// (YOURDOMAIN.HERE) / barerunner.html``` if you included that file
-> [!NOTE]
-> If your website does not load the files, try waiting some time, and if it still doesn't work, check your provider's community forums for information regarding uploading files
+For Instructions on how to compile this Project, please read my WebAssembly Compilation Instructions [HERE](https://burnedwebsite.vercel.app/guide/)
+> This guide should explain how you can compile any GameMaker Studio 2 project for the Browser with Maximum Compatibility, For completely Free, and without the terrible HTML Export
 
 ## Thanks to
 - loypoll for the full decompilation of the recent Pizza Tower Update
