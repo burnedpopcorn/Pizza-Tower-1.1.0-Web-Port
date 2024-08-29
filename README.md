@@ -66,8 +66,3 @@ For Instructions on how to compile this Project, please read my WebAssembly Comp
 - krzys_h and UnderminersTeam for the UnderTaleMod and the ability to decompile GameMakerStudio2 games like Undertale and Pizza Tower
 - Tour de Pizza for the base game
 - And You for the support and playtesting!
-
-
-## To Developers
-For anyone that wants to spill time into this, Visit [Possible Fix Ideas.MD](https://github.com/burnedpopcorn/Pizza-Tower-1.1.0-Web-Port/blob/main/Possible%20Fix%20Ideas.md) within this repository to see my write-up on known issues listed above, and what I observed trying to troubleshoot this game. Not sure how well this will help since
-I honestly have very little idea what I'm doing half the time
