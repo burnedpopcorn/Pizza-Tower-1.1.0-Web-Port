@@ -10,7 +10,7 @@ Go Here for the Launcher: https://pt-emscriptenport.x10.mx/runner.html
 ### Other Ports I've made:
 - Cheesed Up Web Port
 - Scoutdigo v1.2 Web Port
-- Sugary Spire Web Port (Based Off Playtest 3.2 Source Code)
+- Sugary Spire Web Port (Latest Version is based off of the P Rank Build)
 
 Look for them in my Repos!
 
