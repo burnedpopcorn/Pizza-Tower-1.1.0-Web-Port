@@ -2,18 +2,10 @@
 
 A Port of Pizza Tower 1.1.0 (The Noise Update) to the Web Browser
 
-NEW! Sound Build: https://www.autistici.org/burnedprojects/pt_noise_build/runner.html
-
-NEW Minimalistic verison: https://www.autistici.org/burnedprojects/pt_noise_build/barerunner.html
+Go Here for the Launcher: https://pt-emscriptenport.x10.mx/runner.html
 
 > [!NOTE]
-> No Sound Build is here:
-> 
-> https://pt-emscriptenport.x10.mx/runner.html
-> 
-> Minimalistic verison here: https://pt-emscriptenport.x10.mx/barerunner.html
-> 
-> itch.io Upload: https://burnedpopcorn.itch.io/pizza-tower-110-web-port
+> The Launcher lets you choose which build you want to play, the Sound Build or the Older Build that should load Faster
 
 ### Other Ports I've made:
 - Cheesed Up Web Port
