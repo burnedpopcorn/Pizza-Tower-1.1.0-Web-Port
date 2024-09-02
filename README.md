@@ -7,17 +7,17 @@ Go Here for the Launcher: https://pt-emscriptenport.x10.mx/runner.html
 > [!NOTE]
 > The Launcher lets you choose which build you want to play, the Sound Build or the Older Build that should load Faster
 
-### If you have Issues after an Update
-Go [HERE](https://burnedwebsite.vercel.app/guide/wipecache.html#wiping-site-cache) to Learn how to Wipe Site Cache, which should fix your problem.
-
-If it doesn't fix your problem, please open an issue on Github or in my Discord Server
-
 ### Other Ports I've made:
 - Cheesed Up Web Port
 - Scoutdigo v1.2 Web Port
 - Sugary Spire Web Port (Latest Version is based off of the P Rank Build)
 
 Look for them in my Repos!
+
+## If you have Issues after an Update
+Go [HERE](https://burnedwebsite.vercel.app/guide/wipecache.html#wiping-site-cache) to Learn how to Wipe Site Cache, which should fix your problem.
+
+If it doesn't fix your problem, please open an issue on Github or in my Discord Server
 
 ## Current state of the Project
 
