@@ -51,6 +51,10 @@ For Developing, Download The (Modified) Decompiled Files from the Releases Tab (
 > For Legacy Revision 6, Use the 2022 LTS Gamemaker runtime (Runtime 2022.0.1.30)
 >
 > For the Latest Revision, Use GameMaker Version 2023.2.0.71
+>
+> AND DO NOT COMPILE WITH YYC
+>
+> It causes Secrets of the World to get stuck in a loop once you enter the Secret Eye
 
 For Instructions on how to compile this Project, please read my WebAssembly Compilation Instructions [HERE](https://burnedwebsite.vercel.app/guide/)
 > This guide should explain how you can compile any GameMaker Studio 2 project for the Browser with Maximum Compatibility, For completely Free, and without the terrible HTML Export
