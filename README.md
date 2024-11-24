@@ -21,11 +21,7 @@ If it doesn't fix your problem, please open an issue on Github or in my Discord 
 
 ## Current state of the Project
 
-Unfornately there are still some bugs that can negatively impact the game such as
-- No Clothes Swapping / Peppino's Clothes being forced Yellow
-- Also gonna try and improve the Level Select some more
-
-Luckily, I have managed to fix many crashes and issues along the way, so the game is very playable now with NO CRASHES, and has some added extra features that even the vanilla game lacks
+As of 11/23/24, all major issues have been fixed
 
 ## Extra Features
 - Level Select
@@ -60,8 +56,8 @@ For Instructions on how to compile this Project, please read my WebAssembly Comp
 > This guide should explain how you can compile any GameMaker Studio 2 project for the Browser with Maximum Compatibility, For completely Free, and without the terrible HTML Export
 
 ## Thanks to
-- loypoll for the full decompilation of the recent Pizza Tower Update
-> but still, fuck you for falsely DMCA'ing my Cheesed Up Web Ports
+- loypoll for the full decompilation of the Noise Update
+> but still, fuck you for falsely DMCA'ing me
 - krzys_h and UnderminersTeam for the UnderTaleMod and the ability to decompile GameMakerStudio2 games like Undertale and Pizza Tower
 - Tour de Pizza for the base game
 - And You for the support and playtesting!
