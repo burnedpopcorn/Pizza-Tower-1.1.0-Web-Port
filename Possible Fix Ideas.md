@@ -1,19 +1,20 @@
 # Possible Fix Ideas
-This page is to document what I think are causing issues, which should (barely) help developers improve this project
+NO MORE ISSUES AS OF 11/23/24
 
 # Active Issues:
 
-## Clothes don't Work
+none
+
+lets fucking go
+
+# Fixed Issues:
+
+## ~~Clothes don't Work~~
 Clothes can be collected, but cannot be applied
 
 What is the problem is that the Retro Palette Shader, ```shd_pal_swapper```, doesn't support a GX.GAMES build
-> It supports a HTML build, but the rest of the source code does not
 
-ALSO, it seems like the ```gpu_``` code is also not supported on a WASM output, which is the main code that drives the palette swapper
-
-Because of this, this issue will probably never be fixed
-
-# Fixed Issues:
+But with some tweaking, the HTML shader for sprites does the job
 
 ## ~~Game Frame Misplacement~~
 
