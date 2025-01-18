@@ -2,7 +2,7 @@
 
 A Port of Pizza Tower 1.1.0 (The Noise Update) to the Web Browser
 
-Go Here for the Launcher: https://pt-emscriptenport.x10.mx/runner.html
+Official Link: https://www.autistici.org/burnedprojects/NoiseUpdate/
 
 > [!NOTE]
 > The Launcher lets you choose which build you want to play, the Sound Build or the Older Build that should load Faster
